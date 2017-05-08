@@ -1,5 +1,9 @@
+//Class Header File
 #include<iostream>
+//strcpy위해서
 #include<cstring>
 #include<cstdlib>
+//vector list를위해서
 #include<vector>
+//system("cls")위해서
 #include<windows.h>
